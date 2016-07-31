@@ -26,7 +26,10 @@
     NSLog(@"setParam");
 }
 
-
+- (void)tt
+{
+    
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
