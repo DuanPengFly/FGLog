@@ -23,7 +23,7 @@
 
 - (void)setParam
 {
-
+    NSLog(@"setParam");
 }
 
 
